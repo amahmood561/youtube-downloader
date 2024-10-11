@@ -127,7 +127,7 @@ youtube-downloader/
 ##  Running the Tests
 1. **To run the unit tests, use the following command**:
     ```bash
-    python main.py https://www.youtube.com/playlist?list=example_playlist_id --playlist
+    python -m unittest test_video_downloader.py
     ```
 
 
