@@ -123,9 +123,14 @@ youtube-downloader/
 3. **Subtitle Download**: Add support for downloading subtitles.
 4. **Video Conversion Options**: Provide options to convert downloaded videos to different formats.
 
-## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+##  Running the Tests
+1. **To run the unit tests, use the following command**:
+    ```bash
+    python main.py https://www.youtube.com/playlist?list=example_playlist_id --playlist
+    ```
+
+
 
 ## Contact
 
